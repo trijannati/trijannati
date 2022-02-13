@@ -1,8 +1,8 @@
 # Halo semua! 
 
-Perkenalkan nama saya **Tri Jannati Putri**.\
+Perkenalkan nama saya **Tri Jannati Putri**.
 
-Saya seorang **Mahasiswa** di [Universitas Dian Nusantara](https://undira.ac.id/).\
+Saya seorang **Mahasiswa** di [Universitas Dian Nusantara](https://undira.ac.id/).
 
 saya sudah membuat beberapa projrct yaitu pembuatan web
 https://www.solarindustrimurah.com/
